@@ -1,0 +1,29 @@
+Jira cloude: https://www.atlassian.com/software/jira/free
+
+Jira software server source tutorial: https://docs.coveo.com/en/1772/index-content/add-or-edit-a-jira-software-server-source
+Jira Software Cloude Source tutorial: https://docs.coveo.com/en/1655/index-content/add-or-edit-a-jira-software-cloud-source
+Jira personal invironment: https://kirantestcoveo.atlassian.net/browse/
+Tasks:
+
+	-> create environment
+
+	-> Ceate 6 Projects
+
+	-> Install Coveo Plugin: (Coveo user sync app)
+		https://marketplace.atlassian.com/search?query=Coveo%20User%20Sync%20app
+	
+	-> API key generation: 
+		https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/?_ga=2.126505613.1817776130.1555381268-505570362.1555381268
+		(API key: oMYNC92BDXIQMOlOtYZq5D5F) Created in Jira environment
+		
+	-> Use crawling account to index the content with source permissions:
+		create -> 'Jira Software Cloude Source'
+		
+		Data indexed and permissions were verified.
+		
+
+	***
+
+	-> Add 4 folders to the project
+	-> give permissions to the users individually to access different folders
+	-> Check the behaviour if it is working as expected.
