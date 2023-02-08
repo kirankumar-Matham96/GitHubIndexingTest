@@ -1,2 +1,0 @@
-This file is created to test the refresh indexing.
-That is to check if the new modifications were updated in the source when refresh triggred.
